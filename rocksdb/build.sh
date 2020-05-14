@@ -3,4 +3,4 @@
 cd code
 make static_lib
 cp librocksdb.a ../
-cp ./include ../include -r
+cp ./include/rocksdb ../include -r
